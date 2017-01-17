@@ -1,0 +1,17 @@
+Requirements
+
+● You commit the code to an online public accessible Git repository (such as Github)
+
+● Handle binary operations, e.g. 5 - 6, 8 * 4
+
+● The calculator should be able to handle a full arithmetic expression at once, for
+
+example:, e.g. 1 + 1 - 4 * 4
+
+● The library must take Order of Operations
+
+(http://en.wikipedia.org/wiki/Order_of_operations) into account
+
+● No need to handle parentheses, e.g. ( 1 + 1 - 4 ) * 4
+
+● Must be extendable​ so that it accepts user-defined operands

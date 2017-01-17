@@ -1,7 +1,5 @@
 Requirements
 
-● You commit the code to an online public accessible Git repository (such as Github)
-
 ● Handle binary operations, e.g. 5 - 6, 8 * 4
 
 ● The calculator should be able to handle a full arithmetic expression at once, for
@@ -14,4 +12,4 @@ example:, e.g. 1 + 1 - 4 * 4
 
 ● No need to handle parentheses, e.g. ( 1 + 1 - 4 ) * 4
 
-● Must be extendable​ so that it accepts user-defined operands
+● Must be extendable so that it accepts user-defined operands
